@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+jinja2
+openai
+python-dotenv
+gunicorn
+alembic
